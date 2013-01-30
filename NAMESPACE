@@ -1,0 +1,7 @@
+export(
+DMR,
+stepDMR,
+DMR4glm,
+plot_bf,
+roc
+)
